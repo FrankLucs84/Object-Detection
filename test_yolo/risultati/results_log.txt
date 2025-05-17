@@ -1,0 +1,3 @@
+🔍 Risultati dell'inferenza YOLOv8:
+
+Detected Persona with confidence 0.91 at [3568, 485, 4950, 4824]
